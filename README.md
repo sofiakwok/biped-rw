@@ -20,5 +20,5 @@
 
 ## RWA Module
 
-* STL files are included below: 
-* CAD files are included here:
+* STL files are included in https://github.com/sofiakwok/biped-rw/tree/main/stl_files
+* CAD files are included in https://github.com/sofiakwok/biped-rw/tree/main/cad_files
