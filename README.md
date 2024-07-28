@@ -16,8 +16,7 @@
 ## Body Module
 ![_body_structure_biped](https://github.com/user-attachments/assets/65cc26b8-2308-4346-8a0b-b56e7c0f509f)
 
-* Bolt's body is modified to have more mounting points. The modified STL files are included here:
-* 
+* Bolt's body is modified to have more mounting points. The modified STL files are included here: https://github.com/sofiakwok/biped-rw/tree/main/stl_files under body_structure_biped_
 
 ## RWA Module
 
